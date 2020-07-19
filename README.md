@@ -1,16 +1,25 @@
-### Hi there 👋
+# I'm Ramiro Castrogiovanni. Software Developer 👨‍💻
 
-<!--
-**Castrogiovanni20/Castrogiovanni20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Details about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+const castrogiovanni = {
+	code: ["Node.js", "Java", "Android", "React"],
+	tools: [
+		"Express",
+		"Linux",
+		"Firebase",
+		"MongoDB",
+		"MySQL",
+		"SQL",
+	],
+	learning: ["Flutter", "React", "UI/UX Design"],
+};
+```
+
+### Social
+
+ [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ramiro-castrogiovanni-820596156/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Castrogiovanni20)
