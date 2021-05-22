@@ -1,22 +1,6 @@
-# I'm Ramiro Castrogiovanni. Software Developer 👨‍💻
+## I'm Ramiro Castrogiovanni 👋
 
-
-## Details about me
-
-```
-const castrogiovanni = {
-	code: ["Node.js", "Java", "Android", "React"],
-	tools: [
-		"Express",
-		"Linux",
-		"Firebase",
-		"MongoDB",
-		"MySQL",
-		"SQL",
-	],
-	learning: ["Flutter", "React", "UI/UX Design"],
-};
-```
+Developer in progress!
 
 ### Social
 
